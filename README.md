@@ -7,16 +7,16 @@ El juego combina mecánicas de *puzzle* tipo *match-3* con evolución de piezas 
 
 ## 🎮 Mecánicas principales
 
-- **Evolución de letras:**  
-  `a → b → c → d → e`  
+- **Evolución de edificios:**  
+  `tienda → casa → mansion → edificio → hospital`  
   Cuando se juntan 3 o más iguales, se transforman en la ficha del nivel superior.  
 
 - **Bigfoots:**  
-  - **1 (libre):** se mueve en orden de prioridad (arriba → derecha → abajo → izquierda) y envejece cada turno.  
-  - Al llegar a **edad 10**, se convierte en un **escombro (X)** que bloquea permanentemente la celda.  
-  - **2 (encerrado):** aparece cuando un `1` queda rodeado.  
-    - `2+2+2 → 3 (casa)`  
-    - `3+3+3 → 4 (hotel)`  
+  - **Rojo (libre):** se mueve en orden de prioridad (arriba → derecha → abajo → izquierda) y envejece cada turno.  
+  - Al llegar a **edad 10**, se convierte en un **Anciano (gris azulado)** que bloquea permanentemente la celda.  
+  - **Baby:** aparece cuando un `Bigfoot(rojo)` queda rodeado.  
+    - `Baby+Baby+Baby → Casa`  
+    - `Casa+Casa+Casa → Hotel`  
 
 - **Wicks:**  
   - Permiten eliminar el contenido de una celda ocupada.  

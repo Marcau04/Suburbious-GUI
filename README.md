@@ -44,8 +44,8 @@ En el tablero:
 
 ## 🏆 Condiciones de victoria y derrota
 
-- **Ganas puntos** por generar letras, casas y hoteles.  
-- **Pierdes puntos** por Bigfoots, escombros y errores de jugada.  
+- **Ganas puntos** por generar edificios, casas y hoteles.  
+- **Pierdes puntos** por Bigfoots, Ancianos y errores de jugada.  
 - **Derrota:**  
   - No quedan celdas libres.  
   - Se agota el tiempo en modo contrarreloj.  

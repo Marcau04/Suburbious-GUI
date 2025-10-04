@@ -70,7 +70,7 @@ pip install wxPython
 ```
 ### 3. Ejecutar el juego
 ```bash
-python Parte2PracticaPAR.py
+python SuburbiousGUI.py
 ```
 
 ---

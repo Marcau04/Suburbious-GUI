@@ -83,5 +83,23 @@ Si se inicia desde fichero, el formato es:
 
 - El tamaño del tablero se infiere del número de filas y columnas.
 
+---
 
+## ✨ Aprendizaje
 
+Con este proyecto aprendí a:
+
+- Diseñar y programar interfaces gráficas con wxPython y wxGlade.
+
+- Integrar lógica de juego en un entorno visual interactivo.
+
+- Implementar temporizadores y control de tiempo real.
+
+- Gestionar estados complejos de juego (piezas que evolucionan, enemigos, bloqueos).
+
+---
+
+👤 Autor
+
+- Marcau Alonso Ulloa (@Marcau04)
+- Marcau Cámara Vicente
